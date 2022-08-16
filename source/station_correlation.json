@@ -1,0 +1,2811 @@
+[
+    {
+        "name": "CM-LS-217",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-083",
+            "CM-LS-159",
+            "CM-LS-158",
+            "CM-LS-215",
+            "CM-LS-157",
+            "CM-LS-125",
+            "CM-LS-211"
+        ]
+    },
+    {
+        "name": "CM-LS-006",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-074",
+            "CM-LS-187",
+            "CM-LS-189",
+            "CM-LS-098",
+            "CM-LS-134"
+        ]
+    },
+    {
+        "name": "CM-LS-228",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-199",
+            "CM-LS-037",
+            "CM-LS-136",
+            "CM-LS-231",
+            "CM-LS-196",
+            "CM-LS-200",
+            "CM-LS-227",
+            "CM-LS-016",
+            "CM-LS-133",
+            "CM-LS-135"
+        ]
+    },
+    {
+        "name": "CM-LS-205",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-018",
+            "CM-LS-207",
+            "CM-LS-206",
+            "CM-LS-210",
+            "CM-LS-208",
+            "CM-LS-041"
+        ]
+    },
+    {
+        "name": "CM-LS-079",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-001",
+            "CM-LS-036",
+            "CM-LS-003",
+            "CM-LS-226",
+            "CM-LS-040",
+            "CM-LS-076",
+            "CM-LS-109",
+            "CM-LS-056",
+            "CM-LS-078",
+            "CM-LS-107",
+            "CM-LS-106",
+            "CM-LS-060"
+        ]
+    },
+    {
+        "name": "CM-LS-025",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-070",
+            "CM-LS-044",
+            "CM-LS-018",
+            "CM-LS-067",
+            "CM-LS-207",
+            "CM-LS-206"
+        ]
+    },
+    {
+        "name": "CM-LS-001",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-079",
+            "CM-LS-036",
+            "CM-LS-003",
+            "CM-LS-226",
+            "CM-LS-040",
+            "CM-LS-090",
+            "CM-LS-075",
+            "CM-LS-076",
+            "CM-LS-056",
+            "CM-LS-078",
+            "CM-LS-106",
+            "CM-LS-077"
+        ]
+    },
+    {
+        "name": "CM-LS-197",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-198",
+            "CM-LS-095",
+            "CM-LS-093",
+            "CM-LS-229",
+            "CM-LS-230"
+        ]
+    },
+    {
+        "name": "CM-LS-002",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-090",
+            "CM-LS-172",
+            "CM-LS-004",
+            "CM-LS-117",
+            "CM-LS-061",
+            "CM-LS-048"
+        ]
+    },
+    {
+        "name": "CM-LS-035",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-013",
+            "CM-LS-032",
+            "CM-LS-034",
+            "CM-LS-033"
+        ]
+    },
+    {
+        "name": "CM-LS-198",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-197",
+            "CM-LS-095",
+            "CM-LS-093",
+            "CM-LS-229",
+            "CM-LS-230"
+        ]
+    },
+    {
+        "name": "CM-LS-036",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-079",
+            "CM-LS-001",
+            "CM-LS-005",
+            "CM-LS-003",
+            "CM-LS-226",
+            "CM-LS-040",
+            "CM-LS-076",
+            "CM-LS-109",
+            "CM-LS-056",
+            "CM-LS-078",
+            "CM-LS-107",
+            "CM-LS-106",
+            "CM-LS-060",
+            "CM-LS-077"
+        ]
+    },
+    {
+        "name": "CM-LS-005",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-036",
+            "CM-LS-003",
+            "CM-LS-040",
+            "CM-LS-109",
+            "CM-LS-056",
+            "CM-LS-240",
+            "CM-LS-107",
+            "CM-LS-106",
+            "CM-LS-060"
+        ]
+    },
+    {
+        "name": "CM-LS-199",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-228",
+            "CM-LS-037",
+            "CM-LS-039",
+            "CM-LS-231",
+            "CM-LS-196",
+            "CM-LS-200",
+            "CM-LS-227",
+            "CM-LS-016",
+            "CM-LS-133"
+        ]
+    },
+    {
+        "name": "CM-LS-059",
+        "radius": "10000 m.",
+        "neighbors": []
+    },
+    {
+        "name": "CM-LS-145",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-232",
+            "CM-LS-042",
+            "CM-LS-172",
+            "CM-LS-061",
+            "CM-LS-234",
+            "CM-LS-031"
+        ]
+    },
+    {
+        "name": "CM-LS-012",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-027",
+            "CM-LS-175"
+        ]
+    },
+    {
+        "name": "CM-LS-008",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-007"
+        ]
+    },
+    {
+        "name": "CM-LS-015",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-044",
+            "CM-LS-131",
+            "CM-LS-184",
+            "CM-LS-207",
+            "CM-LS-206",
+            "CM-LS-201",
+            "CM-LS-143",
+            "CM-LS-208"
+        ]
+    },
+    {
+        "name": "CM-LS-023",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-073",
+            "CM-LS-189",
+            "CM-LS-141"
+        ]
+    },
+    {
+        "name": "CM-LS-147",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-138",
+            "CM-LS-054",
+            "CM-LS-104"
+        ]
+    },
+    {
+        "name": "CM-LS-003",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-079",
+            "CM-LS-001",
+            "CM-LS-036",
+            "CM-LS-005",
+            "CM-LS-226",
+            "CM-LS-040",
+            "CM-LS-075",
+            "CM-LS-076",
+            "CM-LS-109",
+            "CM-LS-056",
+            "CM-LS-078",
+            "CM-LS-107",
+            "CM-LS-106",
+            "CM-LS-077"
+        ]
+    },
+    {
+        "name": "CM-LS-013",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-035",
+            "CM-LS-022",
+            "CM-LS-032",
+            "CM-LS-034",
+            "CM-LS-033"
+        ]
+    },
+    {
+        "name": "CM-LS-011",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-020",
+            "CM-LS-166",
+            "CM-LS-183",
+            "CM-LS-047"
+        ]
+    },
+    {
+        "name": "CM-LS-244",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-046",
+            "CM-LS-057",
+            "CM-LS-214",
+            "CM-LS-169"
+        ]
+    },
+    {
+        "name": "CM-LS-007",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-008",
+            "CM-LS-009",
+            "CM-LS-010",
+            "CM-LS-062",
+            "CM-LS-086",
+            "CM-LS-088",
+            "CM-LS-115"
+        ]
+    },
+    {
+        "name": "CM-LS-226",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-079",
+            "CM-LS-001",
+            "CM-LS-036",
+            "CM-LS-003",
+            "CM-LS-040",
+            "CM-LS-075",
+            "CM-LS-076",
+            "CM-LS-078",
+            "CM-LS-106",
+            "CM-LS-077"
+        ]
+    },
+    {
+        "name": "CM-LS-156",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-160",
+            "CM-LS-148",
+            "CM-LS-190",
+            "CM-LS-052",
+            "CM-LS-123"
+        ]
+    },
+    {
+        "name": "CM-LS-238",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-239"
+        ]
+    },
+    {
+        "name": "CM-LS-027",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-012",
+            "CM-LS-180",
+            "CM-LS-097",
+            "CM-LS-218",
+            "CM-LS-087",
+            "CM-LS-216",
+            "CM-LS-203",
+            "CM-LS-225"
+        ]
+    },
+    {
+        "name": "CM-LS-037",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-228",
+            "CM-LS-199",
+            "CM-LS-039",
+            "CM-LS-065",
+            "CM-LS-231",
+            "CM-LS-016",
+            "CM-LS-250"
+        ]
+    },
+    {
+        "name": "CM-LS-074",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-006",
+            "CM-LS-187",
+            "CM-LS-189",
+            "CM-LS-098"
+        ]
+    },
+    {
+        "name": "CM-LS-073",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-023",
+            "CM-LS-210",
+            "CM-LS-209",
+            "CM-LS-141"
+        ]
+    },
+    {
+        "name": "CM-LS-024",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-089",
+            "CM-LS-181",
+            "CM-LS-087",
+            "CM-LS-203",
+            "CM-LS-225"
+        ]
+    },
+    {
+        "name": "CM-LS-040",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-079",
+            "CM-LS-001",
+            "CM-LS-036",
+            "CM-LS-005",
+            "CM-LS-003",
+            "CM-LS-226",
+            "CM-LS-076",
+            "CM-LS-109",
+            "CM-LS-056",
+            "CM-LS-078",
+            "CM-LS-107",
+            "CM-LS-106",
+            "CM-LS-060",
+            "CM-LS-077"
+        ]
+    },
+    {
+        "name": "CM-LS-090",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-001",
+            "CM-LS-002",
+            "CM-LS-075",
+            "CM-LS-004",
+            "CM-LS-117",
+            "CM-LS-077",
+            "CM-LS-028"
+        ]
+    },
+    {
+        "name": "CM-LS-152",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-182"
+        ]
+    },
+    {
+        "name": "CM-LS-222",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-072",
+            "CM-LS-124",
+            "CM-LS-144",
+            "CM-LS-141"
+        ]
+    },
+    {
+        "name": "CM-LS-153",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-154",
+            "CM-LS-151",
+            "CM-LS-038"
+        ]
+    },
+    {
+        "name": "CM-LS-020",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-011",
+            "CM-LS-017",
+            "CM-LS-166",
+            "CM-LS-183",
+            "CM-LS-047"
+        ]
+    },
+    {
+        "name": "CM-LS-095",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-197",
+            "CM-LS-198",
+            "CM-LS-091",
+            "CM-LS-229",
+            "CM-LS-230",
+            "CM-LS-092"
+        ]
+    },
+    {
+        "name": "CM-LS-101",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-055",
+            "CM-LS-242",
+            "CM-LS-105",
+            "CM-LS-126",
+            "CM-LS-177",
+            "CM-LS-029",
+            "CM-LS-243",
+            "CM-LS-026"
+        ]
+    },
+    {
+        "name": "CM-LS-055",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-101",
+            "CM-LS-242",
+            "CM-LS-105",
+            "CM-LS-126",
+            "CM-LS-177",
+            "CM-LS-029",
+            "CM-LS-243",
+            "CM-LS-026"
+        ]
+    },
+    {
+        "name": "CM-LS-160",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-156",
+            "CM-LS-148",
+            "CM-LS-190",
+            "CM-LS-159",
+            "CM-LS-052",
+            "CM-LS-158",
+            "CM-LS-123"
+        ]
+    },
+    {
+        "name": "CM-LS-070",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-025",
+            "CM-LS-044",
+            "CM-LS-067"
+        ]
+    },
+    {
+        "name": "CM-LS-014",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-017",
+            "CM-LS-183",
+            "CM-LS-047"
+        ]
+    },
+    {
+        "name": "CM-LS-075",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-001",
+            "CM-LS-003",
+            "CM-LS-226",
+            "CM-LS-090",
+            "CM-LS-076",
+            "CM-LS-077"
+        ]
+    },
+    {
+        "name": "CM-LS-224",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-122",
+            "CM-LS-121",
+            "CM-LS-072",
+            "CM-LS-223",
+            "CM-LS-221",
+            "CM-LS-124",
+            "CM-LS-096"
+        ]
+    },
+    {
+        "name": "CM-LS-009",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-007",
+            "CM-LS-010",
+            "CM-LS-257",
+            "CM-LS-062",
+            "CM-LS-086",
+            "CM-LS-088",
+            "CM-LS-064"
+        ]
+    },
+    {
+        "name": "CM-LS-010",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-007",
+            "CM-LS-009",
+            "CM-LS-086",
+            "CM-LS-088",
+            "CM-LS-115"
+        ]
+    },
+    {
+        "name": "CM-LS-021",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-097",
+            "CM-LS-220",
+            "CM-LS-221",
+            "CM-LS-168",
+            "CM-LS-096"
+        ]
+    },
+    {
+        "name": "CM-LS-136",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-228",
+            "CM-LS-231",
+            "CM-LS-196",
+            "CM-LS-178",
+            "CM-LS-200",
+            "CM-LS-227",
+            "CM-LS-031",
+            "CM-LS-133",
+            "CM-LS-233",
+            "CM-LS-132",
+            "CM-LS-135"
+        ]
+    },
+    {
+        "name": "CM-LS-066",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-256",
+            "CM-LS-143",
+            "CM-LS-191"
+        ]
+    },
+    {
+        "name": "CM-LS-093",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-197",
+            "CM-LS-198",
+            "CM-LS-257",
+            "CM-LS-229",
+            "CM-LS-230",
+            "CM-LS-064"
+        ]
+    },
+    {
+        "name": "CM-LS-043",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-046"
+        ]
+    },
+    {
+        "name": "CM-LS-161",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-260"
+        ]
+    },
+    {
+        "name": "CM-LS-044",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-025",
+            "CM-LS-015",
+            "CM-LS-070",
+            "CM-LS-018",
+            "CM-LS-067",
+            "CM-LS-184",
+            "CM-LS-207",
+            "CM-LS-206",
+            "CM-LS-201",
+            "CM-LS-208"
+        ]
+    },
+    {
+        "name": "CM-LS-076",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-079",
+            "CM-LS-001",
+            "CM-LS-036",
+            "CM-LS-003",
+            "CM-LS-226",
+            "CM-LS-040",
+            "CM-LS-075",
+            "CM-LS-109",
+            "CM-LS-056",
+            "CM-LS-078",
+            "CM-LS-107",
+            "CM-LS-106",
+            "CM-LS-077"
+        ]
+    },
+    {
+        "name": "CM-LS-018",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-205",
+            "CM-LS-025",
+            "CM-LS-044",
+            "CM-LS-207",
+            "CM-LS-206",
+            "CM-LS-208",
+            "CM-LS-041"
+        ]
+    },
+    {
+        "name": "CM-LS-257",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-009",
+            "CM-LS-093",
+            "CM-LS-062",
+            "CM-LS-088",
+            "CM-LS-064"
+        ]
+    },
+    {
+        "name": "CM-LS-261",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-259",
+            "CM-LS-258",
+            "CM-LS-260"
+        ]
+    },
+    {
+        "name": "CM-LS-256",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-066",
+            "CM-LS-143",
+            "CM-LS-191"
+        ]
+    },
+    {
+        "name": "CM-LS-232",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-145",
+            "CM-LS-172",
+            "CM-LS-061",
+            "CM-LS-234",
+            "CM-LS-031"
+        ]
+    },
+    {
+        "name": "CM-LS-039",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-199",
+            "CM-LS-037",
+            "CM-LS-065",
+            "CM-LS-231",
+            "CM-LS-016",
+            "CM-LS-250"
+        ]
+    },
+    {
+        "name": "CM-LS-113",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-146"
+        ]
+    },
+    {
+        "name": "CM-LS-242",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-101",
+            "CM-LS-055",
+            "CM-LS-105",
+            "CM-LS-126",
+            "CM-LS-177",
+            "CM-LS-029",
+            "CM-LS-243",
+            "CM-LS-026"
+        ]
+    },
+    {
+        "name": "CM-LS-105",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-101",
+            "CM-LS-055",
+            "CM-LS-242",
+            "CM-LS-126",
+            "CM-LS-177",
+            "CM-LS-029",
+            "CM-LS-243",
+            "CM-LS-026"
+        ]
+    },
+    {
+        "name": "CM-LS-042",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-145",
+            "CM-LS-061"
+        ]
+    },
+    {
+        "name": "CM-LS-148",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-156",
+            "CM-LS-160",
+            "CM-LS-190",
+            "CM-LS-052",
+            "CM-LS-186",
+            "CM-LS-123",
+            "CM-LS-060"
+        ]
+    },
+    {
+        "name": "CM-LS-137",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-140"
+        ]
+    },
+    {
+        "name": "CM-LS-154",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-153",
+            "CM-LS-151",
+            "CM-LS-038"
+        ]
+    },
+    {
+        "name": "CM-LS-170",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-017",
+            "CM-LS-219",
+            "CM-LS-116"
+        ]
+    },
+    {
+        "name": "CM-LS-138",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-147",
+            "CM-LS-054",
+            "CM-LS-085",
+            "CM-LS-104"
+        ]
+    },
+    {
+        "name": "CM-LS-146",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-113"
+        ]
+    },
+    {
+        "name": "CM-LS-051",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-053",
+            "CM-LS-091",
+            "CM-LS-112",
+            "CM-LS-092"
+        ]
+    },
+    {
+        "name": "CM-LS-204",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-159",
+            "CM-LS-158",
+            "CM-LS-215",
+            "CM-LS-157",
+            "CM-LS-125",
+            "CM-LS-211"
+        ]
+    },
+    {
+        "name": "CM-LS-259",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-261",
+            "CM-LS-260",
+            "CM-LS-058"
+        ]
+    },
+    {
+        "name": "CM-LS-239",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-238"
+        ]
+    },
+    {
+        "name": "CM-LS-109",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-079",
+            "CM-LS-036",
+            "CM-LS-005",
+            "CM-LS-003",
+            "CM-LS-040",
+            "CM-LS-076",
+            "CM-LS-056",
+            "CM-LS-078",
+            "CM-LS-107",
+            "CM-LS-106",
+            "CM-LS-060"
+        ]
+    },
+    {
+        "name": "CM-LS-067",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-025",
+            "CM-LS-070",
+            "CM-LS-044"
+        ]
+    },
+    {
+        "name": "CM-LS-190",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-156",
+            "CM-LS-160",
+            "CM-LS-148",
+            "CM-LS-052",
+            "CM-LS-186",
+            "CM-LS-123"
+        ]
+    },
+    {
+        "name": "CM-LS-069",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-128"
+        ]
+    },
+    {
+        "name": "CM-LS-180",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-027",
+            "CM-LS-218",
+            "CM-LS-216",
+            "CM-LS-173",
+            "CM-LS-168"
+        ]
+    },
+    {
+        "name": "CM-LS-056",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-079",
+            "CM-LS-001",
+            "CM-LS-036",
+            "CM-LS-005",
+            "CM-LS-003",
+            "CM-LS-040",
+            "CM-LS-076",
+            "CM-LS-109",
+            "CM-LS-078",
+            "CM-LS-107",
+            "CM-LS-106",
+            "CM-LS-060",
+            "CM-LS-077"
+        ]
+    },
+    {
+        "name": "CM-LS-162",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-045"
+        ]
+    },
+    {
+        "name": "CM-LS-065",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-037",
+            "CM-LS-039",
+            "CM-LS-250"
+        ]
+    },
+    {
+        "name": "CM-LS-149",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-192",
+            "CM-LS-114",
+            "CM-LS-031",
+            "CM-LS-233"
+        ]
+    },
+    {
+        "name": "CM-LS-172",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-002",
+            "CM-LS-145",
+            "CM-LS-232",
+            "CM-LS-061",
+            "CM-LS-234"
+        ]
+    },
+    {
+        "name": "CM-LS-258",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-261"
+        ]
+    },
+    {
+        "name": "CM-LS-108",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-110",
+            "CM-LS-185",
+            "CM-LS-114"
+        ]
+    },
+    {
+        "name": "CM-LS-046",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-244",
+            "CM-LS-043",
+            "CM-LS-214",
+            "CM-LS-169"
+        ]
+    },
+    {
+        "name": "CM-LS-081",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-030",
+            "CM-LS-050",
+            "CM-LS-049",
+            "CM-LS-082"
+        ]
+    },
+    {
+        "name": "CM-LS-054",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-147",
+            "CM-LS-138",
+            "CM-LS-104"
+        ]
+    },
+    {
+        "name": "CM-LS-022",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-013",
+            "CM-LS-032",
+            "CM-LS-033"
+        ]
+    },
+    {
+        "name": "CM-LS-150",
+        "radius": "10000 m.",
+        "neighbors": []
+    },
+    {
+        "name": "CM-LS-053",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-051",
+            "CM-LS-091",
+            "CM-LS-112",
+            "CM-LS-092"
+        ]
+    },
+    {
+        "name": "CM-LS-188",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-071"
+        ]
+    },
+    {
+        "name": "CM-LS-110",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-108"
+        ]
+    },
+    {
+        "name": "CM-LS-151",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-153",
+            "CM-LS-154",
+            "CM-LS-038"
+        ]
+    },
+    {
+        "name": "CM-LS-017",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-020",
+            "CM-LS-014",
+            "CM-LS-170",
+            "CM-LS-219",
+            "CM-LS-183",
+            "CM-LS-047",
+            "CM-LS-116"
+        ]
+    },
+    {
+        "name": "CM-LS-062",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-007",
+            "CM-LS-009",
+            "CM-LS-257",
+            "CM-LS-086",
+            "CM-LS-063",
+            "CM-LS-088",
+            "CM-LS-064"
+        ]
+    },
+    {
+        "name": "CM-LS-212",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-235",
+            "CM-LS-118",
+            "CM-LS-120",
+            "CM-LS-119",
+            "CM-LS-213"
+        ]
+    },
+    {
+        "name": "CM-LS-097",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-027",
+            "CM-LS-021",
+            "CM-LS-218",
+            "CM-LS-087",
+            "CM-LS-216",
+            "CM-LS-220",
+            "CM-LS-168",
+            "CM-LS-096"
+        ]
+    },
+    {
+        "name": "CM-LS-218",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-027",
+            "CM-LS-180",
+            "CM-LS-097",
+            "CM-LS-087",
+            "CM-LS-216",
+            "CM-LS-203",
+            "CM-LS-225"
+        ]
+    },
+    {
+        "name": "CM-LS-030",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-081",
+            "CM-LS-127",
+            "CM-LS-049",
+            "CM-LS-084",
+            "CM-LS-082"
+        ]
+    },
+    {
+        "name": "CM-LS-126",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-101",
+            "CM-LS-055",
+            "CM-LS-242",
+            "CM-LS-105",
+            "CM-LS-177",
+            "CM-LS-029",
+            "CM-LS-243",
+            "CM-LS-026"
+        ]
+    },
+    {
+        "name": "CM-LS-122",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-224",
+            "CM-LS-121",
+            "CM-LS-072",
+            "CM-LS-223",
+            "CM-LS-221",
+            "CM-LS-157",
+            "CM-LS-124",
+            "CM-LS-144"
+        ]
+    },
+    {
+        "name": "CM-LS-231",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-228",
+            "CM-LS-199",
+            "CM-LS-037",
+            "CM-LS-136",
+            "CM-LS-039",
+            "CM-LS-196",
+            "CM-LS-200",
+            "CM-LS-227",
+            "CM-LS-016",
+            "CM-LS-133"
+        ]
+    },
+    {
+        "name": "CM-LS-057",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-244",
+            "CM-LS-214",
+            "CM-LS-169",
+            "CM-LS-165"
+        ]
+    },
+    {
+        "name": "CM-LS-004",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-002",
+            "CM-LS-090",
+            "CM-LS-117",
+            "CM-LS-112",
+            "CM-LS-077",
+            "CM-LS-028"
+        ]
+    },
+    {
+        "name": "CM-LS-117",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-002",
+            "CM-LS-090",
+            "CM-LS-004",
+            "CM-LS-048",
+            "CM-LS-112",
+            "CM-LS-077",
+            "CM-LS-028"
+        ]
+    },
+    {
+        "name": "CM-LS-131",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-015",
+            "CM-LS-184",
+            "CM-LS-207",
+            "CM-LS-206",
+            "CM-LS-210",
+            "CM-LS-201",
+            "CM-LS-209",
+            "CM-LS-208"
+        ]
+    },
+    {
+        "name": "CM-LS-032",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-035",
+            "CM-LS-013",
+            "CM-LS-022",
+            "CM-LS-034",
+            "CM-LS-033"
+        ]
+    },
+    {
+        "name": "CM-LS-177",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-101",
+            "CM-LS-055",
+            "CM-LS-242",
+            "CM-LS-105",
+            "CM-LS-126",
+            "CM-LS-063",
+            "CM-LS-029",
+            "CM-LS-243",
+            "CM-LS-026"
+        ]
+    },
+    {
+        "name": "CM-LS-086",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-007",
+            "CM-LS-009",
+            "CM-LS-010",
+            "CM-LS-062",
+            "CM-LS-063",
+            "CM-LS-088"
+        ]
+    },
+    {
+        "name": "CM-LS-085",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-138"
+        ]
+    },
+    {
+        "name": "CM-LS-214",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-244",
+            "CM-LS-046",
+            "CM-LS-057",
+            "CM-LS-169",
+            "CM-LS-164",
+            "CM-LS-165"
+        ]
+    },
+    {
+        "name": "CM-LS-104",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-147",
+            "CM-LS-138",
+            "CM-LS-054"
+        ]
+    },
+    {
+        "name": "CM-LS-182",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-152"
+        ]
+    },
+    {
+        "name": "CM-LS-194",
+        "radius": "10000 m.",
+        "neighbors": []
+    },
+    {
+        "name": "CM-LS-121",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-224",
+            "CM-LS-122",
+            "CM-LS-072",
+            "CM-LS-223",
+            "CM-LS-221",
+            "CM-LS-124",
+            "CM-LS-144"
+        ]
+    },
+    {
+        "name": "CM-LS-063",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-062",
+            "CM-LS-177",
+            "CM-LS-086",
+            "CM-LS-088",
+            "CM-LS-064"
+        ]
+    },
+    {
+        "name": "CM-LS-071",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-188"
+        ]
+    },
+    {
+        "name": "CM-LS-196",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-228",
+            "CM-LS-199",
+            "CM-LS-136",
+            "CM-LS-231",
+            "CM-LS-200",
+            "CM-LS-227",
+            "CM-LS-133",
+            "CM-LS-132",
+            "CM-LS-135"
+        ]
+    },
+    {
+        "name": "CM-LS-174",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-173",
+            "CM-LS-171",
+            "CM-LS-175"
+        ]
+    },
+    {
+        "name": "CM-LS-072",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-222",
+            "CM-LS-224",
+            "CM-LS-122",
+            "CM-LS-121",
+            "CM-LS-223",
+            "CM-LS-221",
+            "CM-LS-124",
+            "CM-LS-144"
+        ]
+    },
+    {
+        "name": "CM-LS-038",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-153",
+            "CM-LS-154",
+            "CM-LS-151"
+        ]
+    },
+    {
+        "name": "CM-LS-192",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-149",
+            "CM-LS-179",
+            "CM-LS-178",
+            "CM-LS-185",
+            "CM-LS-193",
+            "CM-LS-114",
+            "CM-LS-233",
+            "CM-LS-132",
+            "CM-LS-135"
+        ]
+    },
+    {
+        "name": "CM-LS-184",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-015",
+            "CM-LS-044",
+            "CM-LS-131",
+            "CM-LS-207",
+            "CM-LS-206",
+            "CM-LS-201",
+            "CM-LS-208"
+        ]
+    },
+    {
+        "name": "CM-LS-155",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-140"
+        ]
+    },
+    {
+        "name": "CM-LS-169",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-244",
+            "CM-LS-046",
+            "CM-LS-057",
+            "CM-LS-214",
+            "CM-LS-164",
+            "CM-LS-165"
+        ]
+    },
+    {
+        "name": "CM-LS-179",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-192",
+            "CM-LS-178",
+            "CM-LS-185",
+            "CM-LS-193",
+            "CM-LS-132"
+        ]
+    },
+    {
+        "name": "CM-LS-195",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-176"
+        ]
+    },
+    {
+        "name": "CM-LS-088",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-007",
+            "CM-LS-009",
+            "CM-LS-010",
+            "CM-LS-257",
+            "CM-LS-062",
+            "CM-LS-086",
+            "CM-LS-063",
+            "CM-LS-064"
+        ]
+    },
+    {
+        "name": "CM-LS-061",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-002",
+            "CM-LS-145",
+            "CM-LS-232",
+            "CM-LS-042",
+            "CM-LS-172",
+            "CM-LS-234"
+        ]
+    },
+    {
+        "name": "CM-LS-167",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-130"
+        ]
+    },
+    {
+        "name": "CM-LS-089",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-024",
+            "CM-LS-181",
+            "CM-LS-087",
+            "CM-LS-203"
+        ]
+    },
+    {
+        "name": "CM-LS-080",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-129"
+        ]
+    },
+    {
+        "name": "CM-LS-078",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-079",
+            "CM-LS-001",
+            "CM-LS-036",
+            "CM-LS-003",
+            "CM-LS-226",
+            "CM-LS-040",
+            "CM-LS-076",
+            "CM-LS-109",
+            "CM-LS-056",
+            "CM-LS-107",
+            "CM-LS-106",
+            "CM-LS-060"
+        ]
+    },
+    {
+        "name": "CM-LS-181",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-024",
+            "CM-LS-089",
+            "CM-LS-203",
+            "CM-LS-225"
+        ]
+    },
+    {
+        "name": "CM-LS-087",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-027",
+            "CM-LS-024",
+            "CM-LS-097",
+            "CM-LS-218",
+            "CM-LS-089",
+            "CM-LS-216",
+            "CM-LS-203",
+            "CM-LS-220"
+        ]
+    },
+    {
+        "name": "CM-LS-048",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-002",
+            "CM-LS-117"
+        ]
+    },
+    {
+        "name": "CM-LS-050",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-081",
+            "CM-LS-049"
+        ]
+    },
+    {
+        "name": "CM-LS-164",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-214",
+            "CM-LS-169",
+            "CM-LS-068"
+        ]
+    },
+    {
+        "name": "CM-LS-083",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-217",
+            "CM-LS-240"
+        ]
+    },
+    {
+        "name": "CM-LS-159",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-217",
+            "CM-LS-160",
+            "CM-LS-204",
+            "CM-LS-158",
+            "CM-LS-215",
+            "CM-LS-157",
+            "CM-LS-125",
+            "CM-LS-211"
+        ]
+    },
+    {
+        "name": "CM-LS-052",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-156",
+            "CM-LS-160",
+            "CM-LS-148",
+            "CM-LS-190",
+            "CM-LS-186",
+            "CM-LS-123",
+            "CM-LS-060"
+        ]
+    },
+    {
+        "name": "CM-LS-207",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-205",
+            "CM-LS-025",
+            "CM-LS-015",
+            "CM-LS-044",
+            "CM-LS-018",
+            "CM-LS-131",
+            "CM-LS-184",
+            "CM-LS-206",
+            "CM-LS-201",
+            "CM-LS-208",
+            "CM-LS-041"
+        ]
+    },
+    {
+        "name": "CM-LS-216",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-027",
+            "CM-LS-180",
+            "CM-LS-097",
+            "CM-LS-218",
+            "CM-LS-087",
+            "CM-LS-203",
+            "CM-LS-225",
+            "CM-LS-168"
+        ]
+    },
+    {
+        "name": "CM-LS-173",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-180",
+            "CM-LS-174",
+            "CM-LS-171"
+        ]
+    },
+    {
+        "name": "CM-LS-171",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-174",
+            "CM-LS-173"
+        ]
+    },
+    {
+        "name": "CM-LS-128",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-069",
+            "CM-LS-129",
+            "CM-LS-130",
+            "CM-LS-102"
+        ]
+    },
+    {
+        "name": "CM-LS-178",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-136",
+            "CM-LS-192",
+            "CM-LS-179",
+            "CM-LS-185",
+            "CM-LS-193",
+            "CM-LS-233",
+            "CM-LS-132",
+            "CM-LS-135"
+        ]
+    },
+    {
+        "name": "CM-LS-186",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-148",
+            "CM-LS-190",
+            "CM-LS-052",
+            "CM-LS-107",
+            "CM-LS-060"
+        ]
+    },
+    {
+        "name": "CM-LS-187",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-006",
+            "CM-LS-074",
+            "CM-LS-098"
+        ]
+    },
+    {
+        "name": "CM-LS-176",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-195"
+        ]
+    },
+    {
+        "name": "CM-LS-200",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-228",
+            "CM-LS-199",
+            "CM-LS-136",
+            "CM-LS-231",
+            "CM-LS-196",
+            "CM-LS-227",
+            "CM-LS-016",
+            "CM-LS-133",
+            "CM-LS-132",
+            "CM-LS-135"
+        ]
+    },
+    {
+        "name": "CM-LS-185",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-108",
+            "CM-LS-192",
+            "CM-LS-179",
+            "CM-LS-178",
+            "CM-LS-193",
+            "CM-LS-114",
+            "CM-LS-132"
+        ]
+    },
+    {
+        "name": "CM-LS-189",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-006",
+            "CM-LS-023",
+            "CM-LS-074"
+        ]
+    },
+    {
+        "name": "CM-LS-091",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-095",
+            "CM-LS-051",
+            "CM-LS-053",
+            "CM-LS-112",
+            "CM-LS-092"
+        ]
+    },
+    {
+        "name": "CM-LS-193",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-192",
+            "CM-LS-179",
+            "CM-LS-178",
+            "CM-LS-185",
+            "CM-LS-132",
+            "CM-LS-135"
+        ]
+    },
+    {
+        "name": "CM-LS-203",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-027",
+            "CM-LS-024",
+            "CM-LS-218",
+            "CM-LS-089",
+            "CM-LS-181",
+            "CM-LS-087",
+            "CM-LS-216",
+            "CM-LS-225"
+        ]
+    },
+    {
+        "name": "CM-LS-223",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-224",
+            "CM-LS-122",
+            "CM-LS-121",
+            "CM-LS-072",
+            "CM-LS-221",
+            "CM-LS-124"
+        ]
+    },
+    {
+        "name": "CM-LS-206",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-205",
+            "CM-LS-025",
+            "CM-LS-015",
+            "CM-LS-044",
+            "CM-LS-018",
+            "CM-LS-131",
+            "CM-LS-184",
+            "CM-LS-207",
+            "CM-LS-201",
+            "CM-LS-208",
+            "CM-LS-041"
+        ]
+    },
+    {
+        "name": "CM-LS-158",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-217",
+            "CM-LS-160",
+            "CM-LS-204",
+            "CM-LS-159",
+            "CM-LS-215",
+            "CM-LS-157",
+            "CM-LS-125",
+            "CM-LS-211"
+        ]
+    },
+    {
+        "name": "CM-LS-103",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-241",
+            "CM-LS-084"
+        ]
+    },
+    {
+        "name": "CM-LS-210",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-205",
+            "CM-LS-073",
+            "CM-LS-131",
+            "CM-LS-209",
+            "CM-LS-208",
+            "CM-LS-041"
+        ]
+    },
+    {
+        "name": "CM-LS-115",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-007",
+            "CM-LS-010",
+            "CM-LS-111"
+        ]
+    },
+    {
+        "name": "CM-LS-227",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-228",
+            "CM-LS-199",
+            "CM-LS-136",
+            "CM-LS-231",
+            "CM-LS-196",
+            "CM-LS-200",
+            "CM-LS-016",
+            "CM-LS-133",
+            "CM-LS-135"
+        ]
+    },
+    {
+        "name": "CM-LS-229",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-197",
+            "CM-LS-198",
+            "CM-LS-095",
+            "CM-LS-093",
+            "CM-LS-230",
+            "CM-LS-092"
+        ]
+    },
+    {
+        "name": "CM-LS-220",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-021",
+            "CM-LS-097",
+            "CM-LS-087",
+            "CM-LS-240",
+            "CM-LS-168",
+            "CM-LS-096"
+        ]
+    },
+    {
+        "name": "CM-LS-235",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-212",
+            "CM-LS-118",
+            "CM-LS-120",
+            "CM-LS-119",
+            "CM-LS-213"
+        ]
+    },
+    {
+        "name": "CM-LS-234",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-145",
+            "CM-LS-232",
+            "CM-LS-172",
+            "CM-LS-061",
+            "CM-LS-031",
+            "CM-LS-233"
+        ]
+    },
+    {
+        "name": "CM-LS-230",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-197",
+            "CM-LS-198",
+            "CM-LS-095",
+            "CM-LS-093",
+            "CM-LS-229"
+        ]
+    },
+    {
+        "name": "CM-LS-237",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-236"
+        ]
+    },
+    {
+        "name": "CM-LS-240",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-005",
+            "CM-LS-083",
+            "CM-LS-220"
+        ]
+    },
+    {
+        "name": "CM-LS-098",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-006",
+            "CM-LS-074",
+            "CM-LS-187",
+            "CM-LS-099",
+            "CM-LS-134"
+        ]
+    },
+    {
+        "name": "CM-LS-099",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-098",
+            "CM-LS-134"
+        ]
+    },
+    {
+        "name": "CM-LS-241",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-103",
+            "CM-LS-127",
+            "CM-LS-084",
+            "CM-LS-139"
+        ]
+    },
+    {
+        "name": "CM-LS-236",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-237"
+        ]
+    },
+    {
+        "name": "CM-LS-107",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-079",
+            "CM-LS-036",
+            "CM-LS-005",
+            "CM-LS-003",
+            "CM-LS-040",
+            "CM-LS-076",
+            "CM-LS-109",
+            "CM-LS-056",
+            "CM-LS-078",
+            "CM-LS-186",
+            "CM-LS-106",
+            "CM-LS-060"
+        ]
+    },
+    {
+        "name": "CM-LS-201",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-015",
+            "CM-LS-044",
+            "CM-LS-131",
+            "CM-LS-184",
+            "CM-LS-207",
+            "CM-LS-206",
+            "CM-LS-208"
+        ]
+    },
+    {
+        "name": "CM-LS-215",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-217",
+            "CM-LS-204",
+            "CM-LS-159",
+            "CM-LS-158",
+            "CM-LS-157",
+            "CM-LS-125",
+            "CM-LS-211"
+        ]
+    },
+    {
+        "name": "CM-LS-114",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-149",
+            "CM-LS-108",
+            "CM-LS-192",
+            "CM-LS-185",
+            "CM-LS-233"
+        ]
+    },
+    {
+        "name": "CM-LS-112",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-051",
+            "CM-LS-053",
+            "CM-LS-004",
+            "CM-LS-117",
+            "CM-LS-091",
+            "CM-LS-092",
+            "CM-LS-028"
+        ]
+    },
+    {
+        "name": "CM-LS-106",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-079",
+            "CM-LS-001",
+            "CM-LS-036",
+            "CM-LS-005",
+            "CM-LS-003",
+            "CM-LS-226",
+            "CM-LS-040",
+            "CM-LS-076",
+            "CM-LS-109",
+            "CM-LS-056",
+            "CM-LS-078",
+            "CM-LS-107",
+            "CM-LS-060",
+            "CM-LS-077"
+        ]
+    },
+    {
+        "name": "CM-LS-221",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-224",
+            "CM-LS-021",
+            "CM-LS-122",
+            "CM-LS-121",
+            "CM-LS-072",
+            "CM-LS-223",
+            "CM-LS-124",
+            "CM-LS-096"
+        ]
+    },
+    {
+        "name": "CM-LS-118",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-212",
+            "CM-LS-235",
+            "CM-LS-120",
+            "CM-LS-119",
+            "CM-LS-213"
+        ]
+    },
+    {
+        "name": "CM-LS-209",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-073",
+            "CM-LS-131",
+            "CM-LS-210"
+        ]
+    },
+    {
+        "name": "CM-LS-092",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-095",
+            "CM-LS-051",
+            "CM-LS-053",
+            "CM-LS-091",
+            "CM-LS-229",
+            "CM-LS-112"
+        ]
+    },
+    {
+        "name": "CM-LS-225",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-027",
+            "CM-LS-024",
+            "CM-LS-218",
+            "CM-LS-181",
+            "CM-LS-216",
+            "CM-LS-203"
+        ]
+    },
+    {
+        "name": "CM-LS-120",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-212",
+            "CM-LS-235",
+            "CM-LS-118",
+            "CM-LS-119",
+            "CM-LS-213"
+        ]
+    },
+    {
+        "name": "CM-LS-219",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-170",
+            "CM-LS-017",
+            "CM-LS-116"
+        ]
+    },
+    {
+        "name": "CM-LS-166",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-011",
+            "CM-LS-020",
+            "CM-LS-047"
+        ]
+    },
+    {
+        "name": "CM-LS-143",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-015",
+            "CM-LS-066",
+            "CM-LS-256",
+            "CM-LS-191"
+        ]
+    },
+    {
+        "name": "CM-LS-183",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-011",
+            "CM-LS-020",
+            "CM-LS-014",
+            "CM-LS-017",
+            "CM-LS-047"
+        ]
+    },
+    {
+        "name": "CM-LS-191",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-066",
+            "CM-LS-256",
+            "CM-LS-143"
+        ]
+    },
+    {
+        "name": "CM-LS-127",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-030",
+            "CM-LS-241",
+            "CM-LS-084"
+        ]
+    },
+    {
+        "name": "CM-LS-134",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-006",
+            "CM-LS-098",
+            "CM-LS-099"
+        ]
+    },
+    {
+        "name": "CM-LS-123",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-156",
+            "CM-LS-160",
+            "CM-LS-148",
+            "CM-LS-190",
+            "CM-LS-052"
+        ]
+    },
+    {
+        "name": "CM-LS-034",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-035",
+            "CM-LS-013",
+            "CM-LS-032",
+            "CM-LS-033"
+        ]
+    },
+    {
+        "name": "CM-LS-049",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-081",
+            "CM-LS-030",
+            "CM-LS-050",
+            "CM-LS-082"
+        ]
+    },
+    {
+        "name": "CM-LS-084",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-030",
+            "CM-LS-103",
+            "CM-LS-241",
+            "CM-LS-127"
+        ]
+    },
+    {
+        "name": "CM-LS-157",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-217",
+            "CM-LS-204",
+            "CM-LS-122",
+            "CM-LS-159",
+            "CM-LS-158",
+            "CM-LS-215",
+            "CM-LS-124",
+            "CM-LS-144",
+            "CM-LS-125",
+            "CM-LS-211"
+        ]
+    },
+    {
+        "name": "CM-LS-082",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-081",
+            "CM-LS-030",
+            "CM-LS-049"
+        ]
+    },
+    {
+        "name": "CM-LS-019",
+        "radius": "10000 m.",
+        "neighbors": []
+    },
+    {
+        "name": "CM-LS-124",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-222",
+            "CM-LS-224",
+            "CM-LS-122",
+            "CM-LS-121",
+            "CM-LS-072",
+            "CM-LS-223",
+            "CM-LS-221",
+            "CM-LS-157",
+            "CM-LS-144"
+        ]
+    },
+    {
+        "name": "CM-LS-139",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-241"
+        ]
+    },
+    {
+        "name": "CM-LS-129",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-080",
+            "CM-LS-128",
+            "CM-LS-130",
+            "CM-LS-102"
+        ]
+    },
+    {
+        "name": "CM-LS-260",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-161",
+            "CM-LS-261",
+            "CM-LS-259",
+            "CM-LS-058"
+        ]
+    },
+    {
+        "name": "CM-LS-140",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-137",
+            "CM-LS-155"
+        ]
+    },
+    {
+        "name": "CM-LS-144",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-222",
+            "CM-LS-122",
+            "CM-LS-121",
+            "CM-LS-072",
+            "CM-LS-157",
+            "CM-LS-124",
+            "CM-LS-141"
+        ]
+    },
+    {
+        "name": "CM-LS-125",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-217",
+            "CM-LS-204",
+            "CM-LS-159",
+            "CM-LS-158",
+            "CM-LS-215",
+            "CM-LS-157",
+            "CM-LS-211"
+        ]
+    },
+    {
+        "name": "CM-LS-016",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-228",
+            "CM-LS-199",
+            "CM-LS-037",
+            "CM-LS-039",
+            "CM-LS-231",
+            "CM-LS-200",
+            "CM-LS-227",
+            "CM-LS-250"
+        ]
+    },
+    {
+        "name": "CM-LS-163",
+        "radius": "10000 m.",
+        "neighbors": []
+    },
+    {
+        "name": "CM-LS-141",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-023",
+            "CM-LS-073",
+            "CM-LS-222",
+            "CM-LS-144"
+        ]
+    },
+    {
+        "name": "CM-LS-165",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-057",
+            "CM-LS-214",
+            "CM-LS-169"
+        ]
+    },
+    {
+        "name": "CM-LS-029",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-101",
+            "CM-LS-055",
+            "CM-LS-242",
+            "CM-LS-105",
+            "CM-LS-126",
+            "CM-LS-177",
+            "CM-LS-243",
+            "CM-LS-026"
+        ]
+    },
+    {
+        "name": "CM-LS-068",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-164"
+        ]
+    },
+    {
+        "name": "CM-LS-031",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-145",
+            "CM-LS-136",
+            "CM-LS-232",
+            "CM-LS-149",
+            "CM-LS-234",
+            "CM-LS-233"
+        ]
+    },
+    {
+        "name": "CM-LS-047",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-011",
+            "CM-LS-020",
+            "CM-LS-014",
+            "CM-LS-017",
+            "CM-LS-166",
+            "CM-LS-183"
+        ]
+    },
+    {
+        "name": "CM-LS-211",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-217",
+            "CM-LS-204",
+            "CM-LS-159",
+            "CM-LS-158",
+            "CM-LS-215",
+            "CM-LS-157",
+            "CM-LS-125"
+        ]
+    },
+    {
+        "name": "CM-LS-142",
+        "radius": "10000 m.",
+        "neighbors": []
+    },
+    {
+        "name": "CM-LS-130",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-167",
+            "CM-LS-128",
+            "CM-LS-129",
+            "CM-LS-102"
+        ]
+    },
+    {
+        "name": "CM-LS-119",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-212",
+            "CM-LS-235",
+            "CM-LS-118",
+            "CM-LS-120",
+            "CM-LS-175",
+            "CM-LS-213"
+        ]
+    },
+    {
+        "name": "CM-LS-060",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-079",
+            "CM-LS-036",
+            "CM-LS-005",
+            "CM-LS-040",
+            "CM-LS-148",
+            "CM-LS-109",
+            "CM-LS-056",
+            "CM-LS-078",
+            "CM-LS-052",
+            "CM-LS-186",
+            "CM-LS-107",
+            "CM-LS-106"
+        ]
+    },
+    {
+        "name": "CM-LS-094",
+        "radius": "10000 m.",
+        "neighbors": []
+    },
+    {
+        "name": "CM-LS-208",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-205",
+            "CM-LS-015",
+            "CM-LS-044",
+            "CM-LS-018",
+            "CM-LS-131",
+            "CM-LS-184",
+            "CM-LS-207",
+            "CM-LS-206",
+            "CM-LS-210",
+            "CM-LS-201",
+            "CM-LS-041"
+        ]
+    },
+    {
+        "name": "CM-LS-111",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-115"
+        ]
+    },
+    {
+        "name": "CM-LS-243",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-101",
+            "CM-LS-055",
+            "CM-LS-242",
+            "CM-LS-105",
+            "CM-LS-126",
+            "CM-LS-177",
+            "CM-LS-029",
+            "CM-LS-026"
+        ]
+    },
+    {
+        "name": "CM-LS-202",
+        "radius": "10000 m.",
+        "neighbors": []
+    },
+    {
+        "name": "CM-LS-100",
+        "radius": "10000 m.",
+        "neighbors": []
+    },
+    {
+        "name": "CM-LS-133",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-228",
+            "CM-LS-199",
+            "CM-LS-136",
+            "CM-LS-231",
+            "CM-LS-196",
+            "CM-LS-200",
+            "CM-LS-227",
+            "CM-LS-132",
+            "CM-LS-135"
+        ]
+    },
+    {
+        "name": "CM-LS-233",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-136",
+            "CM-LS-149",
+            "CM-LS-192",
+            "CM-LS-178",
+            "CM-LS-234",
+            "CM-LS-114",
+            "CM-LS-031"
+        ]
+    },
+    {
+        "name": "CM-LS-250",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-037",
+            "CM-LS-039",
+            "CM-LS-065",
+            "CM-LS-016"
+        ]
+    },
+    {
+        "name": "CM-LS-026",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-101",
+            "CM-LS-055",
+            "CM-LS-242",
+            "CM-LS-105",
+            "CM-LS-126",
+            "CM-LS-177",
+            "CM-LS-029",
+            "CM-LS-243"
+        ]
+    },
+    {
+        "name": "CM-LS-132",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-136",
+            "CM-LS-196",
+            "CM-LS-192",
+            "CM-LS-179",
+            "CM-LS-178",
+            "CM-LS-200",
+            "CM-LS-185",
+            "CM-LS-193",
+            "CM-LS-133",
+            "CM-LS-135"
+        ]
+    },
+    {
+        "name": "CM-LS-077",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-001",
+            "CM-LS-036",
+            "CM-LS-003",
+            "CM-LS-226",
+            "CM-LS-040",
+            "CM-LS-090",
+            "CM-LS-075",
+            "CM-LS-076",
+            "CM-LS-056",
+            "CM-LS-004",
+            "CM-LS-117",
+            "CM-LS-106",
+            "CM-LS-028"
+        ]
+    },
+    {
+        "name": "CM-LS-135",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-228",
+            "CM-LS-136",
+            "CM-LS-196",
+            "CM-LS-192",
+            "CM-LS-178",
+            "CM-LS-200",
+            "CM-LS-193",
+            "CM-LS-227",
+            "CM-LS-133",
+            "CM-LS-132"
+        ]
+    },
+    {
+        "name": "CM-LS-028",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-090",
+            "CM-LS-004",
+            "CM-LS-117",
+            "CM-LS-112",
+            "CM-LS-077"
+        ]
+    },
+    {
+        "name": "CM-LS-033",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-035",
+            "CM-LS-013",
+            "CM-LS-022",
+            "CM-LS-032",
+            "CM-LS-034"
+        ]
+    },
+    {
+        "name": "CM-LS-045",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-162"
+        ]
+    },
+    {
+        "name": "CM-LS-116",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-170",
+            "CM-LS-017",
+            "CM-LS-219"
+        ]
+    },
+    {
+        "name": "CM-LS-041",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-205",
+            "CM-LS-018",
+            "CM-LS-207",
+            "CM-LS-206",
+            "CM-LS-210",
+            "CM-LS-208"
+        ]
+    },
+    {
+        "name": "CM-LS-175",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-012",
+            "CM-LS-174",
+            "CM-LS-119"
+        ]
+    },
+    {
+        "name": "CM-LS-213",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-212",
+            "CM-LS-235",
+            "CM-LS-118",
+            "CM-LS-120",
+            "CM-LS-119"
+        ]
+    },
+    {
+        "name": "CM-LS-058",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-259",
+            "CM-LS-260"
+        ]
+    },
+    {
+        "name": "CM-LS-064",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-009",
+            "CM-LS-093",
+            "CM-LS-257",
+            "CM-LS-062",
+            "CM-LS-063",
+            "CM-LS-088"
+        ]
+    },
+    {
+        "name": "CM-LS-168",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-021",
+            "CM-LS-180",
+            "CM-LS-097",
+            "CM-LS-216",
+            "CM-LS-220",
+            "CM-LS-096"
+        ]
+    },
+    {
+        "name": "CM-LS-096",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-224",
+            "CM-LS-021",
+            "CM-LS-097",
+            "CM-LS-220",
+            "CM-LS-221",
+            "CM-LS-168"
+        ]
+    },
+    {
+        "name": "CM-LS-102",
+        "radius": "10000 m.",
+        "neighbors": [
+            "CM-LS-128",
+            "CM-LS-129",
+            "CM-LS-130"
+        ]
+    }
+]
